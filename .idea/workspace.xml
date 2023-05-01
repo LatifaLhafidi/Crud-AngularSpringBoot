@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fd6e3d2-5de7-4d9b-91a8-544ae08b434b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.2.0.0.20220705-1221.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Adobe Photoshop 2022.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DPlhafidiLatifa.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dossier_professionnelLhafidilatifa.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Driver Updater.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Larifa_Ait_Mouh_Boarding_pass_2022-08-12_LIL-FEZ.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mémoire.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Postman.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/.ht.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/LhafidiLatifa.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/PT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/Sans titre.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/api.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/bootstrap-tutorial.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/cas utilisation.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/co.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/compte.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/contact.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/contr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/css.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/dclasse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/ddclasse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/ddsequence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/dsequence.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/jeu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/mcd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/media.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/mvc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/php.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/php2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/poo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/post data to api.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/rapport.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/resp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/sequence2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/show.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/signin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../React-js/su.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Reskin/jre-8u333-windows-x64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WPS PDF.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../artisan-art.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/EX1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jst.j2ee.webservice.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.server.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.jst.j2ee.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.2.0.0.20220705-1221.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/First/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/First/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/First/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/Projects/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/Projects/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/Projects/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/Projects/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/Projects/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/Projects/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/Projects/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/Projects/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/Servers/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/Servers/Tomcat v10.0 Server at localhost-config/catalina.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/Servers/Tomcat v10.0 Server at localhost-config/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/bin/algorithmeDataStructure/DoubleLinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/bin/algorithmeDataStructure/Element.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/bin/algorithmeDataStructure/Linkdeliste2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/bin/algorithmeDataStructure/Linkdlist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/bin/algorithmeDataStructure/OrderArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/bin/algorithmeDataStructure/TestDoubleLindlist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/bin/algorithmeDataStructure/TestElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/bin/algorithmeDataStructure/TestOrderArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/bin/algorithmeDataStructure/TestUnorderArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/src/algorithmeDataStructure/Linkdeliste2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/src/algorithmeDataStructure/TestDoubleLindlist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/src/algorithmeDataStructure/TestOrderArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmeDataStructure/src/algorithmeDataStructure/UnorderArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmesDeTtri/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmesDeTtri/bin/algorithmeDataStructure/TestTriBulles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmesDeTtri/bin/algorithmeDataStructure/TestTrisSelection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmesDeTtri/bin/algorithmeDataStructure/TrisBulles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmesDeTtri/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmesDeTtri/src/algorithmeDataStructure/TriParSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmesDeTtri/src/algorithmeDataStructure/TrisBulles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/algorithmesDeTtri/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/arrayList/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/arrayList/bin/arrayList/Corpulence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/arrayList/bin/arrayList/Principale12.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/arrayList/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/arrayList/src/arrayList/Corpulence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/arrayList/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/classeObjet/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/classeObjet/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/classeObjet/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/classeObjet/bin/classeObjet/Corpulence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/classeObjet/bin/classeObjet/Princilape10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/classeObjet/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/classeObjet/src/classeObjet/Princilape10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/classeObjet/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collection/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collection/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collection/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collection/bin/collection/ArrayL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collection/bin/collection/Ouvrier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collection/bin/collection/Salarie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collection/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collection/src/collection/ArrayL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collection/src/collection/Chef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collection/src/collection/Directeur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collection/src/collection/Ouvrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collection/src/collection/Payement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collection/src/collection/Salarie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collections/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collections/bin/collections/LinkdList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collections/bin/collections/MapC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collections/bin/collections/QueueC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collections/bin/collections/Seet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collections/bin/collections/StackC.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collections/bin/collections/VectorList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collections/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collections/src/collections/LinkdList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collections/src/collections/Seet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/collections/src/collections/StackC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/cour.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/bin/exercice1/Affiche20.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/bin/exercice1/Calculatrice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/bin/exercice1/ChaineDeCaractere.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/bin/exercice1/Continue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/bin/exercice1/Factoriel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/bin/exercice1/Max.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/bin/exercice1/Paire.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/src/exercice1/Affiche20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/src/exercice1/ChaineDeCaractere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/src/exercice1/Factoriel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/src/exercice1/Jeu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/src/exercice1/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/src/exercice1/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/src/exercice1/Paire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/src/exercice1/Puissance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/src/exercice1/Somme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/exercice1/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionCompte/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionCompte/bin/gestionCompte/Compte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionCompte/bin/gestionCompte/MainCompte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionCompte/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionCompte/src/gestionCompte/Compte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionEtudiant/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionEtudiant/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionEtudiant/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionEtudiant/bin/gestionEtudiant/Etudiant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionEtudiant/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionEtudiant/src/gestionEtudiant/Etudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionEtudiant/src/gestionEtudiant/MainEtudiant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionEtudiant/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionPoint/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionPoint/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionPoint/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionPoint/bin/gestionPoint/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionPoint/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/gestionPoint/src/gestionPoint/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/heritage/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/heritage/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/heritage/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/heritage/bin/heritage/TestVoiture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/heritage/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/heritage/src/heritage/TestVoiture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/heritage/src/heritage/Voiture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/latifajee/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/latifajee/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/latifajee/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/latifajee/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/latifajee/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/latifajee/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/leanerSearch/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/leanerSearch/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/leanerSearch/bin/leanerSearch/LeanerSearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/leanerSearch/src/leanerSearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/leanerSearch/src/leanerSearch/LeanerSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/leanerSearch/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/les collection.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/modélisationVoiture/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/modélisationVoiture/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/modélisationVoiture/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/modélisationVoiture/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/modélisationVoiture/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/modélisationVoiture/bin/modélisationVoiture/TestVoiture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/modélisationVoiture/bin/modélisationVoiture/Voiture.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/modélisationVoiture/src/modélisationVoiture/TestVoiture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/modélisationVoiture/src/modélisationVoiture/Voiture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premieprojetjee/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premieprojetjee/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premieprojetjee/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premieprojetjee/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premieprojetjee/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premieprojetjee/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premieprojetjee/build/classes/com/servelets/Acc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premieprojetjee/build/classes/com/servelets/Firstservlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premieprojetjee/src/main/java/com/servelets/Acc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premieprojetjee/src/main/java/com/servelets/Firstservlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premieprojetjee/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premieprojetjee/src/main/webapp/WEB-INF/aceuil.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premieprojetjee/src/main/webapp/WEB-INF/bonjour.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premierprpjet/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premierprpjet/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premierprpjet/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premierprpjet/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premierprpjet/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premierprpjet/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premierprpjet/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/premierprpjet/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/projetjee/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/projetjee/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/projetjee/src/main/java/snippet/Latifa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/projetjee/src/main/java/snippet/Snippet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/projetjee/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/projetsjee/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/projetsjee/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/projetsjee/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/projetsjee/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/projetsjee/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/recursivité/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/recursivité/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/recursivité/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/recursivité/bin/recursivité/BinarySearch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/rev.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/set/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/set/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/set/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/set/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/stack/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/stack/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/stack/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/stack/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/stack/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/stack/bin/stack/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/stack/bin/stack/TestQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/stack/bin/stack/TestStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/stack/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/stack/src/stack/TestQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/stack/src/stack/TestStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/bin/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/bin/tableaux/Jeu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/bin/tableaux/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/bin/tableaux/Mtab.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/bin/tableaux/Parité.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/bin/tableaux/TestBoucle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/src/tableaux/BoucleImbrique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/src/tableaux/Jeu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/src/tableaux/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/src/tableaux/Mtab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/src/tableaux/Parité.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/src/tableaux/Tableau.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jee/tableaux/src/tableaux/TestBoucle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../latifa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mes projets spring boot/Livraison/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mes projets spring boot/Livraison/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mes projets spring boot/Livraison/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mes projets spring boot/Livraison/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mes projets spring boot/Livraison/src/main/java/com/GestionDe/Livraison/LivraisonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mes projets spring boot/Livraison/src/main/java/com/GestionDe/Livraison/controllers/LivreurController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mes projets spring boot/Livraison/src/main/java/com/GestionDe/Livraison/models/Entrepreneur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mes projets spring boot/Livraison/src/main/java/com/GestionDe/Livraison/repository/LivraisonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mes projets spring boot/Livraison/src/main/java/com/GestionDe/Livraison/services/LivreurServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mes projets spring boot/Livraison/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mes projets spring boot/Livraison/src/test/java/com/GestionDe/Livraison/LivraisonApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mes projets spring boot/ProjetDeLivraison" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/100.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/100dh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/130dh (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/140dh/WhatsApp Image 2023-03-01 at 14.13.20 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/145dh/WhatsApp Image 2023-03-01 at 14.28.14 (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/150.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/160dh (3).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/160dh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/170dh/WhatsApp Image 2023-03-01 at 14.11.22.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/170dh/WhatsApp Image 2023-03-01 at 14.11.23 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/170dh/WhatsApp Image 2023-03-01 at 14.11.23 (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/170dh/WhatsApp Image 2023-03-01 at 14.11.23.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/200dh/WhatsApp Image 2023-03-01 at 14.09.12 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/20dh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/230dh/WhatsApp Image 2023-03-01 at 14.12.30 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/250dh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/250dh/WhatsApp Image 2023-03-01 at 14.34.16.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/250dh/WhatsApp Image 2023-03-01 at 14.34.17 (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/250dh/WhatsApp Image 2023-03-01 at 14.34.17 (3).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/250dh/WhatsApp Image 2023-03-01 at 14.34.17.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/280dh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/2pr 600dh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/30dh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/320dh/WhatsApp Image 2023-03-01 at 13.58.57.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/330dh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/345dh/WhatsApp Image 2023-03-01 at 14.20.18 (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/345dh/WhatsApp Image 2023-03-01 at 14.20.18.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/35.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/35d.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/3pr390.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/400dh/WhatsApp Image 2023-03-01 at 13.57.25.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/400dh/WhatsApp Image 2023-03-01 at 13.58.06.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/400dh/WhatsApp Image 2023-03-01 at 13.58.07.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/400dh/WhatsApp Image 2023-03-01 at 13.58.08 (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/400dh/WhatsApp Image 2023-03-01 at 13.58.08.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/400dh/WhatsApp Image 2023-03-01 at 13.58.09.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/400dh/WhatsApp Image 2023-03-01 at 13.58.21.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/4pour500dh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/50d.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/50dh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/550dh/WhatsApp Image 2023-03-01 at 14.09.12 (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/550dh/WhatsApp Image 2023-03-01 at 14.09.12 (3).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/550dh/WhatsApp Image 2023-03-01 at 14.09.12.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/550dh/WhatsApp Image 2023-03-01 at 14.09.13.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/60.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/60d.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/70dh (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/70dh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/75dh (3).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/75dh.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/75dh/WhatsApp Image 2023-03-01 at 14.36.58 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/75dh/WhatsApp Image 2023-03-01 at 14.36.58.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/7t_shirt pr 280dh/WhatsApp Image 2023-03-01 at 14.34.55 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/7t_shirt pr 280dh/WhatsApp Image 2023-03-01 at 14.34.55 (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/7t_shirt pr 280dh/WhatsApp Image 2023-03-01 at 14.34.55.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/7t_shirt pr 280dh/WhatsApp Image 2023-03-01 at 14.34.56 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/800dh/WhatsApp Image 2023-03-01 at 14.29.12 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/800dh/WhatsApp Image 2023-03-01 at 14.29.12.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/800dh/WhatsApp Image 2023-03-01 at 14.29.13 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/80dh (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/Amina360dh/WhatsApp Image 2023-03-01 at 13.59.39.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/agadir/WhatsApp Image 2023-03-01 at 14.46.34 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/agadir/WhatsApp Image 2023-03-01 at 14.46.35 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fadwa/WhatsApp Image 2023-03-01 at 14.46.37 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fadwa/WhatsApp Image 2023-03-01 at 14.46.37 (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fadwa/WhatsApp Image 2023-03-01 at 14.46.38 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fadwa/WhatsApp Image 2023-03-01 at 14.46.38 (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fadwa/WhatsApp Image 2023-03-01 at 14.46.39 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fadwa/WhatsApp Image 2023-03-01 at 14.46.40 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fatine 555dh/WhatsApp Image 2023-03-01 at 14.23.14.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fatine 555dh/WhatsApp Image 2023-03-01 at 14.23.15 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fatine 555dh/WhatsApp Image 2023-03-01 at 14.23.15 (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fatine 555dh/WhatsApp Image 2023-03-01 at 14.23.15.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fatine 555dh/WhatsApp Image 2023-03-01 at 14.23.16 (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fatine 555dh/WhatsApp Image 2023-03-01 at 14.23.16.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fatine_625dh/WhatsApp Image 2023-03-01 at 14.33.23 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fatine_625dh/WhatsApp Image 2023-03-01 at 14.33.23.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fatine_625dh/WhatsApp Image 2023-03-01 at 14.33.24 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fatine_625dh/WhatsApp Image 2023-03-01 at 14.33.24.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/fes awagha/WhatsApp Image 2023-03-01 at 14.46.36.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produits vendu/produits latifa/brume victoria.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../produitsLatifa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/src/main/java/com/projet/artisan/ArtisanApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/src/main/java/com/projet/artisan/controllers/ArtisanController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/src/main/java/com/projet/artisan/models/Artisan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/src/main/java/com/projet/artisan/models/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/src/main/java/com/projet/artisan/models/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/src/main/java/com/projet/artisan/repository/ArtisanRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/src/main/java/com/projet/artisan/services/ArtisanService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/src/main/java/com/projet/artisan/services/ArtisanServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mes projets spring boot/artisan/src/test/java/com/projet/artisan/ArtisanApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontEnd/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontEnd/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OGxWuwpVlyVR12Fpe9V1w4gccd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/dunkerque652/Desktop/projet_etudiant"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fd6e3d2-5de7-4d9b-91a8-544ae08b434b" name="Changes" comment="" />
+      <created>1681200754656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681200754656</updated>
+    </task>
+    <servers />
+  </component>
+</project>
