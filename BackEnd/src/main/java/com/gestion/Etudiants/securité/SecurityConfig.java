@@ -49,7 +49,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         http.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS);
         http.headers().frameOptions().disable();
        // http.formLogin();
-        http.authorizeHttpRequests().anyRequest().authenticated();
+        http.authorizeHttpRequests().anyRequest().permetteAll();
         http.addFilter(new jwtAuthentificationFilter(authenticationManagerBean()));
         http.addFilterBefore(new jwtAuthorisationFilter(), UsernamePasswordAuthenticationFilter.class);
     }
